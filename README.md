@@ -1,3 +1,9 @@
+
+
+## Architecture
+
+![End-to-End Architecture](workflow_documentation/workflow_documentation.png)
+
 # Sleeper-Fabric-Project
 Project connecting to Sleeper API, ingesting data into Fabric, and learning more about Fabric
 # Fantasy Football Analytics Platform
