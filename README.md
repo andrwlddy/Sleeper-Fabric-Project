@@ -4,6 +4,10 @@
 
 This project demonstrates an end-to-end analytics engineering solution built on Microsoft Fabric using data from the Sleeper Fantasy Football API. The goal is to transform raw, semi-structured API data into a trusted analytical model that supports interactive reporting and business decision-making.
 
+
+![Project Architecture Diagram](images/workflow_documentation.png)
+
+
 ## Project Flow
 
 The architecture follows a **Medallion (Bronze → Silver → Gold)** design pattern:
